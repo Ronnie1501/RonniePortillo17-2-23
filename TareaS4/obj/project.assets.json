@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ronni\\Documents\\codigo\\TareaS4\\TareaS4.csproj",
+      "projectUniqueName": "E:\\ronni\\Documents\\GitHub\\RonniePortillo17-2-23\\TareaS4\\TareaS4.csproj",
       "projectName": "TareaS4",
-      "projectPath": "E:\\ronni\\Documents\\codigo\\TareaS4\\TareaS4.csproj",
+      "projectPath": "E:\\ronni\\Documents\\GitHub\\RonniePortillo17-2-23\\TareaS4\\TareaS4.csproj",
       "packagesPath": "C:\\Users\\ronni\\.nuget\\packages\\",
-      "outputPath": "E:\\ronni\\Documents\\codigo\\TareaS4\\obj\\",
+      "outputPath": "E:\\ronni\\Documents\\GitHub\\RonniePortillo17-2-23\\TareaS4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronni\\AppData\\Roaming\\NuGet\\NuGet.Config"
